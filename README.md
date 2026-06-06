@@ -1,18 +1,20 @@
 <div align="center">
 
-# Nouredin Mamdouh
+<div align="center">
 
-### Full-Stack Developer • Software Engineering Student
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:7c3aed&text=Nouredin%20Mamdouh&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descColor=FFFFFF&descAlignY=65" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nouredin-Mamdouh&label=Profile%20views&color=7c4dff&style=flat" alt="profile views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Nouredin-Mamdouh&label=Profile%20views&color=7c3aed&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/nouredin-elnamla/">
-    <img src="https://img.shields.io/badge/LinkedIn-7c4dff?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nouredin.elnamla@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7c4dff?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-7c3aed?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+</div>
 
 </div>
 
